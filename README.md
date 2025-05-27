@@ -32,7 +32,7 @@
 | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lrickelme&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrickelme&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
 | ----------- | ----------- 
 <hr>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lrickelme&bg_color=ffffff&color=000000&line=800000&point=e6a8b3&area=true&area_color=f9d6df&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lrickelme&bg_color=1c1c1c&color=ffffff&line=800000&point=ffc0cb&area=true&area_color=ffc0cb" width="100%"/>
 
 </p>
 
