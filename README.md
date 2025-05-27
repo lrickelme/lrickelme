@@ -40,9 +40,6 @@
   
   #
   
-  **<p align="center">Obrigado por visitar!</p>**
+  **<p align="center">Volte sempre!👋</p>**
   
-  <p align="center">
-    Explore meus repositórios para ver o que estou criando e aprendendo no mundo do desenvolvimento de software!
-  </p>
 </footer>
