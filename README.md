@@ -1,23 +1,48 @@
-### Olá! Me chamo Lucas Rickelme 😉
-
-![Rickelme GitHub stats](https://github-readme-stats.vercel.app/api?username=lrickelme&show_icons=true&theme=codeSTACKr)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lrickelme.lrickelme">
 
 
-### Tecnologias e Habilidades
+<h2 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá,+Seja+bem+vindo!+👋;Me+chamo+Lucas+Rickelme...;Prazer+em+conhecê-lo+!&&size=27&color=800000">
+  </a>
+</h2>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="js"  src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img align="center" alt="canva"  src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-</div>
+<hr>
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGwxMHZseHA2cWpuOG1ydHB4NHQzNW11N2dibDBudDIzZnB2ZndmYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tMiHhTLvQcavm/giphy.gif" width="360px"/>
+  
 
-### Contatos
+### 🚀 Sobre mim
 
-<div>
-    <a href="https://www.instagram.com/lrickelme_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-rickelme-62a7b924b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:rickelme.lucas@academico.ifpb.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
+
+- 🔭 &nbsp; Atualmente atuando no laboratório **IDE.IA** com desenvolvimento Full Stack.
+- 💻 &nbsp; Tenho experiência com **React**, **Node.js**, **PostgreSQL**, **MongoDB**, **Java**, **Python**, entre outras tecnologias.
+- 📊 &nbsp; Gosto de trabalhar com **modelagem de dados** e **otimização de consultas**, mas trabalho também como **Front-End** e **Back-End**.
+- 👨🏻‍💻 &nbsp; Acesse meus projetos aqui no [GitHub](https://github.com/lrickelme?tab=repositories).
+- 🤝 &nbsp; Entusiasta de colaborações e projetos que envolvam dados, APIs e aplicações web.
+- 📫 &nbsp; Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/lucas-rickelme-62a7b924b/).
+<hr>
+<h2 align="center">🔥 Linguagens, Frameworks, Ferramentas e Habilidades 🔥</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,gradle,maven,spring,nestjs,idea,py,html,css,js,ts,react,vscode,postgres,mysql,mongodb,docker,postman,github,git,md,linux&perline=11"/>
+</p>
+<hr>
+<h3 align="center">Estatísticas</h3>
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lrickelme&theme=dark&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrickelme&theme=dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+| ----------- | ----------- 
+<hr>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lrickelme&bg_color=ffffff&color=000000&line=800000&point=e6a8b3&area=true&area_color=f9d6df&hide_border=true" width="100%"/>
+
+</p>
+
+<footer>
+  
+  #
+  
+  **<p align="center">Obrigado por visitar!</p>**
+  
+  <p align="center">
+    Explore meus repositórios para ver o que estou criando e aprendendo no mundo do desenvolvimento de software!
+  </p>
+</footer>
